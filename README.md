@@ -63,3 +63,4 @@ git push -u origin main
 
 - Keep `.env` out of GitHub because it contains secrets.
 - If the repository grows large, consider using Git LFS for binary data files.
+"# movie_rec" 
